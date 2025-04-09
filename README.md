@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-chloeandersen-ucsb
 
 Running at: <https://jpa03-chloeandersen-ucsb.dokku-14.cs.ucsb.edu/>
 
